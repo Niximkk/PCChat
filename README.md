@@ -3,6 +3,8 @@
 **PCChat** is a **peer-to-peer (P2P), anonymous, no-logs messaging app** built on top of [Hyperswarm](https://github.com/holepunchto/hyperswarm).
 It allows users to communicate **directly** over a decentralized network with **zero central servers**, **no surveillance**, and **no logging** — all in real time! :3
 
+<img src="https://github.com/user-attachments/assets/ae9b288b-ddb2-48a9-8e09-0d51e5962139" alt="Descrição" width="500"/>
+
 > 🌀 **What’s with the name?**
 > “PCChat” is a joke — a pure comedy reference.
 > **This project is not affiliated with any gang, group, or criminal organization**, and I strongly discourage any malicious usage.
